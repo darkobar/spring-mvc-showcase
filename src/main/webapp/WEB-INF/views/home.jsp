@@ -40,6 +40,8 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
 		<ul>
+		
+		THIS IS THE SECOND LINE 
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
 			</li>
